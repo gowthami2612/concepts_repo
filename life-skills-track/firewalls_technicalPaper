@@ -1,6 +1,6 @@
-###FIREWALLS
+### FIREWALLS
 
-##ABSTACT
+## ABSTACT
   Now-a-days the world became digitial and it was getting advanced.Inorder to develop the digitalization we need to take care of the networks. the networks must be secured and can't be hacked . for that we mainly use the firewalls.Firewalls are essential components in modern cybersecurity architecture, acting as a barrier between trusted and untrusted networks. This paper provides a comprehensive overview of firewalls, exploring their types, functionalities, and importance in safeguarding digital environments. We delve into the evolution of firewall technologies, from basic packet filtering to advanced next-generation firewalls (NGFWs) that incorporate deep packet inspection, intrusion prevention systems (IPS), and application awareness. Furthermore, the paper discusses the implementation strategies, challenges, and best practices for maintaining firewall security. Through case studies and real-world examples, we highlight the critical role firewalls play in defending against cyber threats, ensuring data integrity, and maintaining network performance. This study aims to equip IT professionals and cybersecurity practitioners with the knowledge needed to effectively deploy and manage firewalls in their organizations.
 
 
