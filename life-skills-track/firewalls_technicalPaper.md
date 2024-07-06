@@ -121,6 +121,11 @@ In short, firewalls act as security guards for your computer and network, making
 - **Lower Cost**: Generally cheaper, sometimes free.
 - **Flexible**: Easily customized for specific needs.
 
+### REFERENCES
+
+- https://www.youtube.com/watch?v=eO6QKDL3p1I&list=PLBbU9-SUUCwV7Dpk7GI8QDLu3w54TNAA6
+- https://www.researchgate.net/publication/367103503_Research_on_firewall_technology_and_its_application_in_computer_network_security_strategy
+
   ### CONCLUSION
 
   Firewalls are crucial for maintaining the security and integrity of our digital environments. They monitor and control the flow of data between our networks and the wider internet, acting as barriers against unauthorized access and cyber threats.
