@@ -85,4 +85,24 @@ Firewalls have several important uses that help protect computers and networks. 
 
 ---
 
+---
+
+**Limitations of Firewalls**
+
+1. **Can't Block Everything**: Firewalls are good at stopping known threats, but new tricks or very smart hackers might get around them.
+
+2. **Can't Stop Trusted People**: If someone already has access to your network and wants to do harm, a firewall might not be able to stop them.
+
+3. **Misses Hidden Threats**: If a safe-looking file or email secretly carries a virus, the firewall might let it through because it looks okay on the surface.
+
+4. **Doesn't Spot Tricks**: Firewalls can't tell if someone tricks you into giving away your password or sensitive info by pretending to be trustworthy.
+
+5. **Struggles with Secret Codes**: Encrypted data looks like secret codes to firewalls, making it hard for them to check if it's safe without slowing down your internet.
+
+6. **Not Foolproof Against Clever Attacks**: Really smart attacks or hackers might find ways to sneak past firewalls because they're only one part of good protection.
+
+---
+
+Even though firewalls are important, they work best alongside other security tools and smart habits to keep your computer and info safe.
+
 In short, firewalls act as security guards for your computer and network, making sure only safe and allowed information gets in and out while keeping bad stuff away.
