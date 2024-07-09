@@ -65,6 +65,7 @@ console.log(print);
 Output: "Hello" 
                 [1,2,3]
 why "Hello" is also printing ? when we have exported array('ar') only!
+## Answer
 
 -"Hello" is printed because `console.log("Hello");` in `file1.js` runs when `file1.js` is required, executing all top-level code including console outputs.
 
