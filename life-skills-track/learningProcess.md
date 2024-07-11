@@ -24,4 +24,5 @@ Active mode is defined as when you try to focus on something immediately you can
 - I will try to develop my creative approach
 - Improve my focus 
 
+
    
