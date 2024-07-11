@@ -4,11 +4,11 @@ This technique is  used for learning and understanding the complex topics by tea
 
 ## Question2 : In this video, what was the most interesting story or idea for you?
 
-the whole  video was amazing . But i find three parts that are more intresting. The first one is the edision story how they approach a problem creatively . secondly I liked .the promodoro technique on how can you can be focused for a certain time. and atlast one is how you can stop the comparing others and appreciating what you have and try to learn as much as possible.my favourite part in this video is the quote "learning how to learn is more powerful tool that you can grasp".
+The whole  video was amazing . But i find three parts that are more intresting. The first one is the edision story how they approach a problem creatively . secondly I liked .the promodoro technique on how can you can be focused for a certain time. and atlast one is how you can stop the comparing others and appreciating what you have and try to learn as much as possible.my favourite part in this video is the quote "learning how to learn is more powerful tool that you can grasp".
 
 ## Question3:  What are active and diffused modes of thinking?
 
-active mode is defined as when you try to focus on something immediately you can do that but the diffused mode is relaxed set of neural states.it is a number of resting states.where ideas will connect unconciously.
+Active mode is defined as when you try to focus on something immediately you can do that but the diffused mode is relaxed set of neural states.it is a number of resting states.where ideas will connect unconciously.
 
 ## Question 4 : According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 
