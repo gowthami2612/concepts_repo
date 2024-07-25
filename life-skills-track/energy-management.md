@@ -4,7 +4,7 @@ The activities I do that make me relax - Calm quadrant are
 - Listening to music
 - Watching movies
 - Reading Novels
-- 
+  
 ## Question 2 : When do you find getting into the Stress quadrant?
 
 - when I am starting to learn something new
