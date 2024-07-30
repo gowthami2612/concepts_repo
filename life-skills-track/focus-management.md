@@ -12,7 +12,7 @@ According to the Author to deep work properly the few things needed to be follow
 
 ## Question 3 : How can you implement the principles in your day to day life?
 
-- Setiing  specific times each day dedicated to deep work without interruptions.
+- Setting  specific times each day dedicated to deep work without interruptions.
 - Creating a distraction-free zone
 - Setting the clear goals.
 
